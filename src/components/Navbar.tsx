@@ -7,7 +7,7 @@ const Navbar = () => {
 		<div className="w-full flex flex-col">
 			<div className="w-full bg-transparent border-b border-border lg:px-[310px] px-5 flex items-center justify-between h-[40px]">
 				<span className="text-secondary font-Source">Tired ? Let’s have a cup of coffee.</span>
-				<span className="text-secondary font-Source">Call us: 123 456 789 241</span>
+				<span className="text-secondary font-Source">Call us: +91 9900887711</span>
 				<span className="text-secondary font-Source lg:block hidden">
 					Our location: Your location, Country
 				</span>
