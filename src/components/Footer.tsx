@@ -72,30 +72,13 @@ const Footer = () => {
 				</div>
 				<div className="flex flex-col gap-2">
 					<span className="uppercase font-Source text-lg tracking-wider text-secondary">
-						address 1, location, 123
-					</span>
-					<span className="uppercase font-Source text-lg tracking-wider text-secondary">
-						address 1, location, 123
-					</span>
-					<span className="uppercase font-Source text-lg tracking-wider text-secondary">
-						address 1, location, 123
-					</span>
-				</div>
-				<div className="flex flex-col gap-2">
-					<span className="uppercase font-Source text-lg tracking-wider text-secondary">
-						YOurinfo@mail.com
-					</span>
-					<span className="uppercase font-Source text-lg tracking-wider text-secondary">
-						address, location, 123
-					</span>
-					<span className="uppercase font-Source text-lg tracking-wider text-secondary">
-						111 222 333 444 555
+						street mono, Banglore, India 560000
 					</span>
 				</div>
 			</div>
 			<div className="w-full h-[70px] mt-[100px] flex items-center justify-center border-t border-border">
 				<span className="font-Source text-lg text-secondary font-light">
-					© 2024 Kofee. Developed by{" "}
+					© 2024 Kofee. Developed by{"tharun "}
 					<a
 						href="https://www.youtube.com/channel/UCCW0Rmnu7AocSIcc0PUMH0Q"
 						target="_blank"
