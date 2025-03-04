@@ -13,3 +13,46 @@ body {
 	background-color: #f5f4f2;
 	overflow-x: hidden;
 }
+.gap-with-dash {
+	display: flex;
+	width: 100%;
+	align-items: center;
+}
+.gap-with-dash .font-Source:first-child {
+	flex-grow: 0;
+}
+.gap-with-dash .font-Source:last-child {
+	flex-grow: 1;
+	text-align: right;
+	display: flex;
+	justify-content: flex-end;
+}
+.gap-with-dash .font-Source:last-child::before {
+	content: "";
+	background: repeating-linear-gradient(
+		to right,
+		currentColor,
+		currentColor 1px,
+		transparent 2px,
+		transparent 4px
+	);
+	height: 1px;
+	flex-grow: 1;
+	display: inline-block;
+	align-self: center;
+	margin-right: 10px;
+}
+
+::-webkit-scrollbar {
+	width: 9px;
+	height: 9px;
+}
+::-webkit-scrollbar * {
+	background: transparent;
+}
+::-webkit-scrollbar-thumb {
+	background: #ee8542 !important;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: #c26b35 !important;
+}
