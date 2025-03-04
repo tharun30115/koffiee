@@ -26,7 +26,7 @@ const Reservation = () => {
 						/>
 						<input
 							type="text"
-							placeholder="Feb 22,2023"
+							placeholder= "Mar 22,2025"
 							className="border-0 border-b pb-2 border-inputBorder bg-transparent outline-none font-Source text-lg font-light placeholder:text-secondary"
 						/>
 						<input

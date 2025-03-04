@@ -9,7 +9,7 @@ const Navbar = () => {
 				<span className="text-secondary font-Source">Tired ? Let’s have a cup of coffee.</span>
 				<span className="text-secondary font-Source">Call us: +91 9900887711</span>
 				<span className="text-secondary font-Source lg:block hidden">
-					Our location: Your location, Country
+					Our location: Banglore, India
 				</span>
 			</div>
 			<div className="w-full flex items-center justify-between h-[73px] lg:px-[310px] px-5">

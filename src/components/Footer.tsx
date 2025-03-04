@@ -78,13 +78,13 @@ const Footer = () => {
 			</div>
 			<div className="w-full h-[70px] mt-[100px] flex items-center justify-center border-t border-border">
 				<span className="font-Source text-lg text-secondary font-light">
-					© 2024 Kofee. Developed by{"tharun "}
+					© 2025 Kofee. Developed by{" "}
 					<a
-						href="https://www.youtube.com/channel/UCCW0Rmnu7AocSIcc0PUMH0Q"
+						href="https://github.com/tharun30115"
 						target="_blank"
 						className="underline font-semibold"
 					>
-						Code It Down
+						tharun
 					</a>
 				</span>
 			</div>
