@@ -41,37 +41,37 @@ const Footer = () => {
 				<div className="flex flex-col gap-2">
 					<a
 						href="#"
-						className="uppercase text-secondary font-Source text-lg tracking-wider"
+						className=" text-secondary font-Source text-lg tracking-wider"
 					>
 						Home
 					</a>
 					<a
 						href="#"
-						className="uppercase text-secondary font-Source text-lg tracking-wider"
+						className=" text-secondary font-Source text-lg tracking-wider"
 					>
 						About us
 					</a>
 					<a
 						href="#"
-						className="uppercase text-secondary font-Source text-lg tracking-wider"
+						className=" text-secondary font-Source text-lg tracking-wider"
 					>
 						Services
 					</a>
 					<a
 						href="#"
-						className="uppercase text-secondary font-Source text-lg tracking-wider"
+						className=" text-secondary font-Source text-lg tracking-wider"
 					>
 						Help & Support
 					</a>
 					<a
 						href="#"
-						className="uppercase text-secondary font-Source text-lg tracking-wider"
+						className=" text-secondary font-Source text-lg tracking-wider"
 					>
 						Contact
 					</a>
 				</div>
 				<div className="flex flex-col gap-2">
-					<span className="uppercase font-Source text-lg tracking-wider text-secondary">
+					<span className=" font-Source text-lg tracking-wider text-secondary">
 						street mono, Banglore, India 560000
 					</span>
 				</div>
